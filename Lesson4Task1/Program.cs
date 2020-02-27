@@ -33,8 +33,8 @@ namespace Lesson4Task1
     {
         static void Main(string[] args)
         {
-            //Task1();
-            //Task2();
+            Task1();
+            Task2();
             Task4();
         }
 
